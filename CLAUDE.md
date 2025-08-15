@@ -34,7 +34,7 @@ CONTEXT:
 
 REQUIREMENTS:
 1. Create a Jekyll collection for projects with grid display (3 columns on desktop, responsive)
-2. Projects should have: image, title, subtitle, description, tech stack, links (github/demo). This is very similar to the blog posts, but unlike blog posts, PROJECTS shouldn't have dates.
+2. Projects should have: image, title, subtitle. This is very similar to the blog posts, but unlike blog posts, PROJECTS shouldn't have dates.
 3. Individual project pages should have TOC support (like blog posts)
 4. Style it to match Chirpy's existing aesthetic
 5. Keep PROJECTS tab to navigation as order 1 and the same icon as now.
