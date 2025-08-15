@@ -1,10 +1,10 @@
 ---
 title: "Cognitive Attention Training Platform"
-subtitle: "Gamified mobile app for attention and focus enhancement"
+# subtitle: "Gamified mobile app for attention and focus enhancement"
 description: "A research-backed mobile application designed to improve cognitive attention and focus through scientifically-validated training exercises."
-tech_stack: ["React Native", "Node.js", "MongoDB", "Python", "TensorFlow", "Firebase"]
-github_url: "https://github.com/victor-muzi/attention-training-app"
-demo_url: "https://attention-trainer-demo.victor-muzi.github.io"
+# tech_stack: ["React Native", "Node.js", "MongoDB", "Python", "TensorFlow", "Firebase"]
+# github_url: "https://github.com/victor-muzi/attention-training-app"
+# demo_url: "https://attention-trainer-demo.victor-muzi.github.io"
 image:
   path: "/assets/img/profilepic.jpg"
   alt: "Mobile app interface showing attention training exercises"
