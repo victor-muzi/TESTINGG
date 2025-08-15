@@ -2,8 +2,7 @@
 layout: page
 toc: true
 ---
-<h2>Hi</h2>
-<br>
+
 
 # Hi! I'm Victor Muzi TESTINGG AAAWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW I'm a psychological researcher who combines advanced
 statistical expertise with a genuine fascination for understanding how minds work. My First Class Honours research used
