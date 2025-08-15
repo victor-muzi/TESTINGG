@@ -4,7 +4,7 @@ The site should function as a professional portfolio for a psychology researcher
 ## Project Setup
 - Framework: Jekyll with Chirpy theme (forked)
 - Development: Docker Dev Container in VS Code (for local testing)
-- Deployment: GitHub Pages (https://victor-muzi.github.io)
+- Deployment: GitHub Pages (https://victor-muzi.github.io/TESTINGG)
 - Local URL: http://127.0.0.1:4000/
 
 
