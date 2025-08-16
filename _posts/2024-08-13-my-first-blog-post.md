@@ -4,11 +4,39 @@ date: 2024-08-13 10:00:00 +1000
 categories: [Psychology, Research]
 tags: [introduction, testing]
 description: A test post to explore Chirpy theme features and functionality.
+math: true
 ---
 
 # Welcome to My BlogAAAAAAAAAAA
 
 This is my first blog post on my new portfolio website! I'm testing the various features of the Chirpy theme.
+
+<!-- Block math, keep all blank lines -->
+
+$$
+LaTeX_math_expression
+$$
+
+<!-- Equation numbering, keep all blank lines  -->
+
+$$
+\begin{equation}
+  LaTeX_math_expression
+  \label{eq:label_name}
+\end{equation}
+$$
+
+Can be referenced as \eqref{eq:label_name}.
+
+<!-- Inline math in lines, NO blank lines -->
+
+"Lorem ipsum dolor sit amet, $$ LaTeX_math_expression $$ consectetur adipiscing elit."
+
+<!-- Inline math in lists, escape the first `$` -->
+
+1. \$$ LaTeX_math_expression $$
+2. \$$ LaTeX_math_expression $$
+3. \$$ LaTeX_math_expression $$
 
 ## About This Post
 
