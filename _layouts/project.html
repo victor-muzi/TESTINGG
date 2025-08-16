@@ -4,7 +4,6 @@ refactor: true
 panel_includes:
   - toc
 ---
-
 {% include lang.html %}
 
 {% include toc-status.html %}
@@ -29,7 +28,7 @@ panel_includes:
       {% endif %}
 
       <div class="mt-3 mb-3">
-        <img {{ src }} {{ class }} {{ alt }} w="1200" h="450" {{ lqip }}>
+        <img {{ src }} {{ class }} {{ alt }} w="1200" h="130" {{ lqip }}>
         {%- if page.image.alt -%}
           <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
         {%- endif -%}
